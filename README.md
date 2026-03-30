@@ -1,4 +1,4 @@
-# GitHub Cloud Connector (.NET)
+# GitHub  Connector (.NET)
 
 ## 📌 Overview
 This project integrates with GitHub API to:
